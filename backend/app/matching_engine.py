@@ -120,3 +120,4 @@ def calculate_match_score(
     }
 
     return final_score, breakdown
+

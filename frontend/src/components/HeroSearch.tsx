@@ -143,3 +143,4 @@ export const HeroSearch: React.FC<HeroSearchProps> = ({
     </div>
   );
 };
+

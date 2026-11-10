@@ -535,3 +535,4 @@ export const EmployerDashboard: React.FC<EmployerDashboardProps> = ({ onOpenAts 
     </div>
   );
 };
+

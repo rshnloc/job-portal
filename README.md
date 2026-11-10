@@ -156,3 +156,4 @@ You can click any demo persona in the top navigation bar or log in manually with
 | **Candidate** (Alex Rivera) | `candidate@example.com` | `Password123!` | Job Seeker |
 | **Employer** (Sarah Lin) | `employer@example.com` | `Password123!` | Employer |
 | **Admin** (Jordan Taylor) | `admin@example.com` | `Password123!` | System Admin |
+

@@ -293,3 +293,4 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, setCurrentTab, openA
     </header>
   );
 };
+

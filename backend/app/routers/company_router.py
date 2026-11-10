@@ -94,3 +94,4 @@ def create_company(
     db.commit()
     db.refresh(company)
     return company
+

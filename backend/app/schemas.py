@@ -200,3 +200,4 @@ class AnalyticsOverview(BaseModel):
     applications_by_status: dict[str, int]
     top_departments: dict[str, int]
     top_skills: list[dict[str, Any]]
+

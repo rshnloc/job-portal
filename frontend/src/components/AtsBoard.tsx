@@ -448,3 +448,4 @@ export const AtsBoard: React.FC<AtsBoardProps> = ({ initialJobId }) => {
     </div>
   );
 };
+

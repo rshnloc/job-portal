@@ -239,3 +239,4 @@ export const CompanyDirectory: React.FC<CompanyDirectoryProps> = ({ onSelectJob 
     </div>
   );
 };
+

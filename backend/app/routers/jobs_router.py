@@ -472,3 +472,4 @@ def delete_job(
     db.delete(job)
     db.commit()
     return {"message": "Job posting deleted successfully"}
+

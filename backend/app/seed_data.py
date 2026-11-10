@@ -420,3 +420,4 @@ def seed_database(db: Session):
     db.commit()
 
     print("✅ Realistic test data seeded successfully!")
+

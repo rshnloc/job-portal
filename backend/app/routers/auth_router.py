@@ -103,3 +103,4 @@ def update_profile(
     db.commit()
     db.refresh(current_user)
     return current_user
+

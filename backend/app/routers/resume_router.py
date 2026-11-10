@@ -144,3 +144,4 @@ def parse_resume_text(
         "extracted_skills": extracted_skills,
         "skills_count": len(extracted_skills)
     }
+

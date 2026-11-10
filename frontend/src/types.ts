@@ -148,3 +148,4 @@ export interface AnalyticsOverview {
   top_departments: Record<string, number>;
   top_skills: Array<{ skill: string; count: number }>;
 }
+

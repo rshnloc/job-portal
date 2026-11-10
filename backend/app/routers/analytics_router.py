@@ -46,3 +46,4 @@ def get_analytics(db: Session = Depends(get_db)):
         top_departments=dict(dept_counts),
         top_skills=top_skills_list
     )
+

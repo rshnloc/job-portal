@@ -266,3 +266,4 @@ def withdraw_application(
     app.status = "withdrawn"
     db.commit()
     return {"message": "Application has been withdrawn successfully."}
+

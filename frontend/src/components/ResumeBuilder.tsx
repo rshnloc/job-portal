@@ -507,3 +507,4 @@ export const ResumeBuilder: React.FC = () => {
     </div>
   );
 };
+

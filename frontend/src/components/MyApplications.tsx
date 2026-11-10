@@ -346,3 +346,4 @@ export const MyApplications: React.FC = () => {
     </div>
   );
 };
+

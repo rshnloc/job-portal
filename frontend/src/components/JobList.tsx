@@ -588,3 +588,4 @@ export const JobList: React.FC<JobListProps> = ({
     </div>
   );
 };
+

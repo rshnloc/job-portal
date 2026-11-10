@@ -145,3 +145,4 @@ class JobAlert(Base):
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
 
     user = relationship("User", back_populates="job_alerts")
+
