@@ -1,0 +1,18 @@
+# Environments and Virtualenvs
+venv/
+.env
+*.env.local
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+*.sqlite3
+
+# Node & Frontend
+node_modules/
+dist/
+.vite/
+.DS_Store
+
+# Logs
+*.log
